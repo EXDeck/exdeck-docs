@@ -1,1 +1,1 @@
-# exdeck-wiki
+souhait ← 誰
