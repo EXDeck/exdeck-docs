@@ -1,0 +1,46 @@
+baseURL = "https://exdeck.site/docs"
+
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "EXDeck Docs"
+theme = "ace-documentation"
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir= false
+enableMissingTranslationPlaceholders = false
+
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = ""
+
+[params]
+ordersectionsby = "weight" # ordersectionsby = "title"
+disableSearch = false # default is false
+disableReadmoreNav = false # set true to hide prev/next navigation, default is false
+highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
+menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
+custom_css = ["/css/custom.css"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[[menu.shortcuts]]
+name = "EXDeck.jp"
+url = "https://exdeck.jp"
+weight = 1
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-github'></i>"
+url = "https://github.com/exdeck/"
+weight = 2
+
+[[menu.shortcuts]]
+name = "<button class='btn btn-success mt-n1'>Download</button>"
+url = "https://hisubway.online/marindeck"
+weight = 3

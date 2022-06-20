@@ -1,0 +1,11 @@
+div.feed-icons{
+    display: none;
+}
+
+body .bg-primary{
+    background-color: #0a59f7 !important;
+}
+
+a{
+    color: #41adef;
+}
