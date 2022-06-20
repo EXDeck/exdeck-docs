@@ -4,6 +4,7 @@ description = ""
 weight = 3
 +++
 
-[EXDeck.jp](https://exdeck.jp)
+[EXDeck.jp(ティザーサイト)](https://exdeck.jp)
+[開発ブログ](https://exdeck.site)
 
 {{< childpages >}}
