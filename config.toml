@@ -1,4 +1,4 @@
-baseURL = "https://exdeck.site/docs"
+baseURL = "https://exdeck.site/docs/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
