@@ -7,7 +7,6 @@ description = ""
 Documentation for [EXDeck](https://exdeck.jp)
 {{< /lead >}}
 
-
 <!-- ## Features -->
 <!-- <div class="row py-3 mb-5">
 	<div class="col-md-4">

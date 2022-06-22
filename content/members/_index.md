@@ -4,7 +4,7 @@ description = ""
 weight = 1
 +++
 
-## Founder & Designer
+## Founder, Designer
  - [HiSubway](https://github.com/HiSubway)
 
 ## Manager
@@ -27,5 +27,10 @@ weight = 1
 
 ### Public Relations
  - [L1n4r1A](https://github.com/L1n4r1A)
+
+
+## Join us
+
+https://discord.gg/TfaxEPcc3Q
 
 {{< childpages >}}
