@@ -24,6 +24,9 @@ weight = 1
 ### Engineer
  - [CaffeinePower](https://github.com/cffnpwr) F/B
  - [rin](https://github.com/rinjugatla) F/B
+ - [melt_adzuki](https://github.com/melt-adzuki) F
+ - [sim1222](https://github.com/sim1222) B
+ - [EbiseLutica](https://github.com/EbiseLutica) F
 
 ### Public Relations
  - [L1n4r1A](https://github.com/L1n4r1A)
